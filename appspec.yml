@@ -2,9 +2,4 @@ version: 0.0
 os: windows
 files:
   - source: \Test.txt
-<<<<<<< HEAD
-    destination: c:\inetpub\wwwroot\mhtml
-=======
-    destination: c:\inetpub\wwwroot\mhtml
-hooks:
->>>>>>> origin/master
+  - destination: c:\inetpub\wwwroot\mhtml
