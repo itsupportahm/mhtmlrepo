@@ -3,4 +3,3 @@ os: windows
 files:
   - source: \Test.txt
     destination: c:\inetpub\wwwroot\mhtml
-hooks:
