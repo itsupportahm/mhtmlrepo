@@ -19,8 +19,15 @@ Dev branch Commit 18
 Dev branch Commit 19
 new development commit 20
 <<<<<<< HEAD
+<<<<<<< HEAD
+223
+=======
+new development commit 21
+>>>>>>> refs/remotes/origin/development
+=======
 21
 22
 =======
 223
 >>>>>>> refs/remotes/origin/production
+>>>>>>> refs/remotes/origin/master
