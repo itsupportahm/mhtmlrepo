@@ -1,2 +1,0 @@
-This is the old staging deploy.... This is old file which will be updated. 
-Auto deploy Version 1 - VT
